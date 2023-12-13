@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"> <!--boot-strap-->
+    <title>GTSP || Welcome All</title>
+</head>
+<body>
+
+<!-- Nav Bar -->
+    <nav id="navbar" class="nav">
+      <div class="profile">
+        <img src="profile.jpeg" alt="Person" width="96" height="96">
+        <a href="https://www.linkedin.com/in/gandham-padmavathi-4633ba250" target="_self" style="color: black;">Inteti Harika</a>
+      </div>
+      <div class="top">
+      <ul class="nav-list">
+        <li>
+          <a href="#1">Home</a>
+        </li>
+        <li>
+            <a href="#2">About</a>
+        </li>
+        <li>
+          <a href="#3">Projects</a>
+        </li>
+        <li>
+          <a href="#4">Contact</a>
+        </li>
+      </ul>
+      </div>
+    </nav>
+<!-- Nav Bar Ends -->
+
+<!-- START WELCOME SECTION -->
+ <section id="1" class="welcome-section">
+  <div class="flex">
+    <img src="./profile.jpeg" alt="profile" class="profile-main">
+    <div class="text">
+    <h1 class="t1">Hello...!!!</h1>
+    <h2><span style="color: blueviolet;">I'm </span>Inteti Harika</h2>
+    <p style="text-align: center ;">Undergraduate at <b>SVECW-BHIMVARAM</b></p>
+    </div>
+  </div>
+  <div>
+    <a href="Inteti Harika RESUME.pdf" download>
+      <button class="btn" >My Resume</button></a>
+  </div>
+  </section>
+  
+  <!-- END WELCOME SECTION -->
+
+  <!-- About Me -->
+  <section id="2" class="about">
+    <h2>About Me...</h2>
+    <div class="abt">
+    <p>
+        Hello Everyone!! I'm Inteti Harika from Krishna District, Andhra Pradesh. I am pursuing my Bachelor of Technology in Electronics
+        and Electronics Engineering at Shri vishnu engineering college for women,Bhimavaram.
+        I am enthusatic in learning new things and i am got at doing Front-end Development. Visit my 
+        <a href="https://www.linkedin.com/in/gandham-padmavathi-4633ba250" target="_blank" class="Link">LinkedIn</a> profile.
+    </p>
+    <br> 
+    <p>
+      I'm a part of DOD team (Department of Designing) in The Robotics Club-SNIST. Where I worked under a team and made some beautiful poster 
+      for Festivals wishing the students of our club and the College. Also I have done few events posters for my Club. 
+      You can see my works from instagram handles <a href="https://instagram.com/theroboticsclubsnist?igshid=MzRlODBiNWFlZA==" target="_blank" class="Link" >PYTHON DEVELOPER</a>.
+      In the club I have done few projects based on AI AND MACHINE LEARNING based on energy predication , and banglore housing.
+    </p>
+    <br>
+    <h3>My Skills</h3>
+    <br>
+    <div class="skills">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">AI AND MACHING LEARNING</div>
+        <div class="skill">python</div>
+        <div class="skill">C programming</div>
+    </div>
+</div>
+    
+  </section>
+  <!-- End of About Me -->
+
+</body>
+</html>
